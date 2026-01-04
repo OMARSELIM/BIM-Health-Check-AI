@@ -1,0 +1,5 @@
+{
+  "name": "BIM Health Check AI",
+  "description": "An AI-powered BIM model auditing tool for Revit and IFC files. Automated health checks, ISO 19650 compliance suggestions, and quality scoring.",
+  "requestFramePermissions": []
+}
